@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+		<categorie id="Sport">
+			<motsCles1>Hockey</motsCles1>
+			<motsCles2>Football</motsCles2>
+			<motsCles3>Basketball</motsCles3>
+			<motsCles4>Soccer</motsCles4>
+			<motsCles5>Golf</motsCles5>
+			<motsCles6>Tennis</motsCles6>
+			<motsCles7>Natation</motsCles7>
+			<motsCles8>Volleyball</motsCles8>
+			<motsCles9>Cyclisme</motsCles9>
+			<motsCles10>Athlétisme</motsCles10>
+			
+		</categorie>
+		<categorie id="Musique">
+			<motsCles1>Pop</motsCles1>
+			<motsCles2>Rock</motsCles2>
+			<motsCles3>Rap</motsCles3>
+			<motsCles4>Electro</motsCles4>
+			<motsCles5>Jazz</motsCles5>
+			<motsCles6>Reggae</motsCles6>
+			<motsCles7>Afrobeat</motsCles7>
+			<motsCles8>Blues</motsCles8>
+			<motsCles9>Country</motsCles9>
+			<motsCles10>Soul</motsCles10>
+			
+		</categorie>
+		<categorie id="Cinema">
+			<motsCles1>Drame</motsCles1>
+			<motsCles2>Horreur</motsCles2>
+			<motsCles3>Sciences-fiction</motsCles3>
+			<motsCles4>Action</motsCles4>
+			<motsCles5>Comédie</motsCles5>
+			<motsCles6>Autobiographie</motsCles6>
+			<motsCles7>Aventure</motsCles7>
+			<motsCles8>Dessins animés</motsCles8>
+			<motsCles9>Guerre</motsCles9>
+			<motsCles10>Policier</motsCles10>
+			
+		</categorie>
+		<categorie id="Voyages">
+			<motsCles1>Road trip</motsCles1>
+			<motsCles2>Pélerinage</motsCles2>
+			<motsCles3>Camping</motsCles3>
+			<motsCles4>Exploration</motsCles4>
+			<motsCles5>Tourisme</motsCles5>
+			<motsCles6>Affaire</motsCles6>
+			<motsCles7>Croisière</motsCles7>
+			<motsCles8>Aventure</motsCles8>
+			<motsCles9>Séjour</motsCles9>
+			<motsCles10>Cuba</motsCles10>
+			
+		</categorie>
+		<categorie id="Lectures">
+			<motsCles1>Littérature Québécoise</motsCles1>
+			<motsCles2>Biographie</motsCles2>
+			<motsCles3>Livre de Cuisine</motsCles3>
+			<motsCles4>Roman policier</motsCles4>
+			<motsCles5>Poésie</motsCles5>
+			<motsCles6>Théâtre</motsCles6>
+			<motsCles7>Roman d'aventures</motsCles7>
+			<motsCles8>Essais Littéraire</motsCles8>
+			<motsCles9>Roman historique</motsCles9>
+			<motsCles10>Livre de Santé</motsCles10>
+			
+		</categorie>		
+</categories>
